@@ -34,11 +34,11 @@ I’m also on [Bluesky](https://bsky.app/profile/cloudquistador.bsky.social)
 
 # Some Articles I’ve Written for Publication:
 
-The Real Reason to Be Nervous About AI (for the Nation in the US)
+[The Real Reason to Be Nervous About AI](https://www.thenation.com/article/society/ai-labor-automation-sentient/) - for the Nation in the US)
 
-Seeding the Cloud (for Logic Magazine)
+[Seeding the Cloud](https://logicmag.io/clouds/seeding-the-cloud/) - for Logic Magazine
 
-Fordism Comes to the Gallery (on AI art for the Nation)
+[Fordism Comes to the Gallery](https://www.thenation.com/article/culture/fordism-ai-art-dall-e/) - on AI art for the Nation
 
 # My book on Azure Cost Management
 
