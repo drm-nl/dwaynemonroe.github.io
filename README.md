@@ -17,13 +17,13 @@ Here are my websites:
 
 [Monroelab FinOps Analysis and Advisory](https://www.monroelab.cloud/) - a cloud cost advisory service which can help you understand and control your costs on the Azure platform)
 
-Azure FinOps (a blog about the FinOps practice, as applied to the Azure platform)
+[Azure FinOps](https://azurefinops.blog/) - a blog about the FinOps practice, as applied to the Azure platform
 
-Computational Impacts (a blog about the political economy of the tech industry - grounded analysis without hype)
+[Computational Impacts] (https://monroelab.net/) - a blog about the political economy of the tech industry - grounded analysis without hype
 
-Film Conversations (a project in which, I chat with friends about the movies we love in detail)
+[Film Conversations](https://filmconversations.org/) - a project in which, I chat with friends about the movies we love in detail
 
-Film Conversations Podcast: On Spotify
+[Film Conversations Podcast On Spotify](https://open.spotify.com/show/3E5dPk4of0pFAVdcTjGbzy)
 
 I’m on Mastodon at: https://mastodon.online/@dwaynemonroe
 
