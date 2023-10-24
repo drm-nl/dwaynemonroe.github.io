@@ -28,3 +28,11 @@ Film Conversations Podcast: On Spotify
 I’m on Mastodon at: https://mastodon.online/@dwaynemonroe
 
 I’m on Bluesky at: @cloudquistador.bsky.social
+
+# Some Articles I’ve Written for Publication:
+
+The Real Reason to Be Nervous About AI (for the Nation in the US)
+
+Seeding the Cloud (for Logic Magazine)
+
+Fordism Comes to the Gallery (on AI art for the Nation)
