@@ -11,6 +11,8 @@ By the way, I am on Twitter as @cloudquistador and have been for several years b
 
 # Websites and Projects
 
+![Hidden figures pic.](https://acmpstor.blob.core.windows.net/acmpblob1/Hidden-figures-computer-room.png)
+
 Websites and Projects
 Here are my websites:
 
