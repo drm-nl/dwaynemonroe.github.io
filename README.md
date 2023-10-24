@@ -13,7 +13,7 @@ By the way, I am on Twitter as @cloudquistador and have been for several years b
 Websites and Projects
 Here are my websites:
 
-LinkedIn (because, of course)
+[Linkedin](https://www.linkedin.com/in/cloudquistador/) - because, of course
 
 Monroelab FinOps Analysis and Advisory (a cloud cost advisory service which can help you understand and control your costs on the Azure platform)
 
