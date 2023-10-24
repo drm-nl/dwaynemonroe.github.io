@@ -27,7 +27,7 @@ Here are my websites:
 
 I’m on Mastodon at: https://mastodon.online/@dwaynemonroe
 
-I’m on Bluesky at: @cloudquistador.bsky.social
+I’m also on [Bluesky](https://bsky.app/profile/cloudquistador.bsky.social)
 
 # Some Articles I’ve Written for Publication:
 
