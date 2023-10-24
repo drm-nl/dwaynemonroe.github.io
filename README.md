@@ -39,7 +39,7 @@ Fordism Comes to the Gallery (on AI art for the Nation)
 
 # My book on Azure Cost Management
 
-Here’s the book I wrote a few years ago (in need of a bit of updating) about how to use the Azure portal’s built-in cost management tool to track your costs on that platform
+[Here’s the book](https://www.azurefinops.com/) I wrote a few years ago (in need of a bit of updating) about how to use the Azure portal’s built-in cost management tool to track your costs on that platform
 
 # A Few Podcast Appearances
 
