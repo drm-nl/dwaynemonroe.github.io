@@ -36,3 +36,7 @@ The Real Reason to Be Nervous About AI (for the Nation in the US)
 Seeding the Cloud (for Logic Magazine)
 
 Fordism Comes to the Gallery (on AI art for the Nation)
+
+# My book on Azure Cost Management
+
+Here’s the book I wrote a few years ago (in need of a bit of updating) about how to use the Azure portal’s built-in cost management tool to track your costs on that platform
