@@ -15,7 +15,7 @@ Here are my websites:
 
 [Linkedin](https://www.linkedin.com/in/cloudquistador/) - because, of course
 
-[Monroelab FinOps Analysis and Advisory] (https://www.monroelab.cloud/) - a cloud cost advisory service which can help you understand and control your costs on the Azure platform)
+[Monroelab FinOps Analysis and Advisory](https://www.monroelab.cloud/) - a cloud cost advisory service which can help you understand and control your costs on the Azure platform)
 
 Azure FinOps (a blog about the FinOps practice, as applied to the Azure platform)
 
