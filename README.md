@@ -40,3 +40,21 @@ Fordism Comes to the Gallery (on AI art for the Nation)
 # My book on Azure Cost Management
 
 Here’s the book I wrote a few years ago (in need of a bit of updating) about how to use the Azure portal’s built-in cost management tool to track your costs on that platform
+
+# A Few Podcast Appearances
+
+I’ve had the good fortune to have been interviewed on a few podcasts:
+
+Behind the News (about ChatGPT)
+
+Tech Won’t Save Us (about cloud)
+
+Day Two Cloud (should cloud be a public utility?)
+
+Screaming in the Cloud (about Azure)
+
+99 ZU EINS (on tech industry hype)
+
+Rendering Unconscious (on AI hype)
+
+Rendering Unconscious (with Dr. Isabel Millar on AI Doomerism)
