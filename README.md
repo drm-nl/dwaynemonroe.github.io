@@ -48,16 +48,16 @@ I’m also on [Bluesky](https://bsky.app/profile/cloudquistador.bsky.social)
 
 I’ve had the good fortune to have been interviewed on a few podcasts:
 
-Behind the News (about ChatGPT)
+[Behind the News](https://podcasts.apple.com/za/podcast/behind-the-news-2-9-23/id73801817?i=1000598944636) - about ChatGPT
 
-Tech Won’t Save Us (about cloud)
+[Tech Won’t Save Us](https://podcasts.apple.com/us/podcast/how-the-cloud-reshaped-the-internet-w-dwayne-monroe/id1507621076?i=1000570674585) - about cloud
 
-Day Two Cloud (should cloud be a public utility?)
+[Day Two Cloud](https://daytwocloud.io/podcast/day-two-cloud-083-should-cloud-be-a-public-utility/) - should cloud be a public utility?
 
-Screaming in the Cloud (about Azure)
+[Screaming in the Cloud](https://podcasts.apple.com/us/podcast/all-things-azure-with-dwayne-monroe/id1361244178?i=1000480314727) - about Azure
 
-99 ZU EINS (on tech industry hype)
+[99 ZU EINS](https://youtu.be/q6s5WnomgpY) - on tech industry hype
 
-Rendering Unconscious (on AI hype)
+[Rendering Unconscious](https://soundcloud.com/highbrowlowlife/ru188-dwayne-monroe-cloud-architect-marxist-tech-analyst-internet-polemicist-on-ai-propaganda) - on AI hype
 
-Rendering Unconscious (with Dr. Isabel Millar on AI Doomerism)
+[Rendering Unconscious](https://youtu.be/_54STS6XhtU) - with Dr. Isabel Millar on AI Doomerism
