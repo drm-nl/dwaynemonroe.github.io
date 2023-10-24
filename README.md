@@ -19,7 +19,7 @@ Here are my websites:
 
 [Azure FinOps](https://azurefinops.blog/) - a blog about the FinOps practice, as applied to the Azure platform
 
-[Computational Impacts] (https://monroelab.net/) - a blog about the political economy of the tech industry - grounded analysis without hype
+[Computational Impacts](https://monroelab.net/) - a blog about the political economy of the tech industry - grounded analysis without hype
 
 [Film Conversations](https://filmconversations.org/) - a project in which, I chat with friends about the movies we love in detail
 
