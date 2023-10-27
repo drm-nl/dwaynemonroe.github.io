@@ -2,3 +2,5 @@ title: Dwayne R Monroe
 #logo: /assets/img/headshot_circle.png
 #show_downloads: true
 theme: jekyll-theme-midnight
+github:
+  is_project_page: false
