@@ -18,11 +18,10 @@ Here are my websites:
 
 [Linkedin](https://www.linkedin.com/in/cloudquistador/) - because, of course
 
-[Monroelab FinOps Analysis and Advisory](https://www.monroelab.cloud/) - a cloud cost advisory service which can help you understand and control your costs on the Azure platform)
 
 [Azure FinOps](https://azurefinops.blog/) - a blog about the FinOps practice, as applied to the Azure platform
 
-[Computational Impacts](https://monroelab.net/) - a blog about the political economy of the tech industry - grounded analysis without hype
+[Computational Impacts](https://monroelab.com/) - a blog about the political economy of the tech industry - grounded analysis without hype
 
 [Film Conversations](https://filmconversations.org/) - a project in which, I chat with friends about the movies we love in detail
 
@@ -39,6 +38,8 @@ I’m also on [Bluesky](https://bsky.app/profile/cloudquistador.bsky.social)
 [Seeding the Cloud](https://logicmag.io/clouds/seeding-the-cloud/) - for Logic Magazine
 
 [Fordism Comes to the Gallery](https://www.thenation.com/article/culture/fordism-ai-art-dall-e/) - on AI art for the Nation
+
+[Silicon Landlords: On the Narrowing of AI’s Horizon](https://www.thenation.com/article/culture/ai-big-tech-monopoly/) - for the Nation in the US)
 
 # My book on Azure Cost Management
 
