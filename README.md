@@ -27,9 +27,8 @@ Here are my websites:
 
 [Film Conversations Podcast On Spotify](https://open.spotify.com/show/3E5dPk4of0pFAVdcTjGbzy)
 
-I’m on Mastodon at: https://mastodon.online/@dwaynemonroe
 
-I’m also on [Bluesky](https://bsky.app/profile/cloudquistador.bsky.social)
+
 
 # Some Articles I’ve Written for Publication:
 
