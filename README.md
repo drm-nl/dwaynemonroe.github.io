@@ -18,12 +18,14 @@ Here are my websites:
 
 [Linkedin](https://www.linkedin.com/in/cloudquistador/) - because, of course
 
+[Verdigris](https://vdgasjournal.com/) - because, of course
+
 
 [Azure FinOps](https://azurefinops.blog/) - a blog about the FinOps practice, as applied to the Azure platform
 
 [Computational Impacts](https://monroelab.com/) - a blog about the political economy of the tech industry - grounded analysis without hype
 
-[Film Conversations](https://filmconversations.org/) - a project in which, I chat with friends about the movies we love in detail
+A project in which, I chat with friends about the movies we love in detail
 
 [Film Conversations Podcast On Spotify](https://open.spotify.com/show/3E5dPk4of0pFAVdcTjGbzy)
 
