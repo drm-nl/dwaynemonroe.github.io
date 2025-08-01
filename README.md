@@ -40,7 +40,7 @@ Film Conversations: A project in which, I chat with friends about the movies we 
 
 [Fordism Comes to the Gallery](https://www.thenation.com/article/culture/fordism-ai-art-dall-e/) - on AI art for the Nation
 
-[Silicon Landlords: On the Narrowing of AI’s Horizon](https://www.thenation.com/article/culture/ai-big-tech-monopoly/) - for the Nation in the US)
+[Silicon Landlords: On the Narrowing of AI’s Horizon](https://www.thenation.com/article/culture/ai-big-tech-monopoly/) - for the Nation in the US
 
 # My book on Azure Cost Management
 
