@@ -25,7 +25,7 @@ Here are my websites:
 
 [Computational Impacts](https://monroelab.com/) - a blog about the political economy of the tech industry - grounded analysis without hype
 
-A project in which, I chat with friends about the movies we love in detail
+Film Conversations: A project in which, I chat with friends about the movies we love in detail
 
 [Film Conversations Podcast On Spotify](https://open.spotify.com/show/3E5dPk4of0pFAVdcTjGbzy)
 
