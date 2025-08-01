@@ -51,8 +51,6 @@ I’ve had the good fortune to have been interviewed on a few podcasts:
 
 [Tech Won’t Save Us](https://podcasts.apple.com/us/podcast/how-the-cloud-reshaped-the-internet-w-dwayne-monroe/id1507621076?i=1000570674585) - about cloud
 
-[Day Two Cloud](https://daytwocloud.io/podcast/day-two-cloud-083-should-cloud-be-a-public-utility/) - should cloud be a public utility?
-
 [Screaming in the Cloud](https://podcasts.apple.com/us/podcast/all-things-azure-with-dwayne-monroe/id1361244178?i=1000480314727) - about Azure
 
 [99 ZU EINS](https://youtu.be/q6s5WnomgpY) - on tech industry hype
