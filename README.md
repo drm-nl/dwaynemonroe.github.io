@@ -18,7 +18,7 @@ Here are my websites:
 
 [Linkedin](https://www.linkedin.com/in/cloudquistador/) - because, of course
 
-[Verdigris](https://vdgasjournal.com/) - because, of course
+[Verdigris](https://vdgasjournal.com/) - A literary journal, devoted to reinvigorating the essay tradtion represented by Vidal, Mencken, Sontag and other giants of the form
 
 
 [Azure FinOps](https://azurefinops.blog/) - a blog about the FinOps practice, as applied to the Azure platform
