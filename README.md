@@ -49,6 +49,8 @@ I’ve had the good fortune to have been interviewed on a few podcasts:
 
 [Behind the News](https://podcasts.apple.com/za/podcast/behind-the-news-2-9-23/id73801817?i=1000598944636) - about ChatGPT
 
+[Behind the News - July 2025 Appearance](https://podcasts.apple.com/za/podcast/behind-the-news-7-31-25/id73801817?i=1000720145251) - about the current state of the 'AI' industry
+
 [Tech Won’t Save Us](https://podcasts.apple.com/us/podcast/how-the-cloud-reshaped-the-internet-w-dwayne-monroe/id1507621076?i=1000570674585) - about cloud
 
 [Screaming in the Cloud](https://podcasts.apple.com/us/podcast/all-things-azure-with-dwayne-monroe/id1361244178?i=1000480314727) - about Azure
