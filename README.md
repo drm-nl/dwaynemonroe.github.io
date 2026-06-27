@@ -27,7 +27,7 @@ My interests include cybernetics, cloud (focused on the Azure platform) and ente
 
 *Film Conversations*: A project in which, I chat with friends about film from the perspective of political economy, geopolitics, psychoanalytic theory, a literary perspective and more
 
-[Film Conversations Podcast On Spotify](https://open.spotify.com/show/3E5dPk4of0pFAVdcTjGbzy)
+[Film Conversations]https://vdgasjournal.com/2025/08/08/film-conversations/)
 
 
 
