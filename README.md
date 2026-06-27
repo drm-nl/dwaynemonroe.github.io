@@ -45,6 +45,8 @@ My interests include cybernetics, cloud (focused on the Azure platform) and ente
 
 I’ve had the good fortune to have been interviewed on a few podcasts:
 
+[Millennials are Killing Capitalism](https://www.youtube.com/results?search_query=millenials+are+killing+capitalism+dwayne+monroe) - various appearances about the tech industry's political economy
+
 [Behind the News](https://podcasts.apple.com/za/podcast/behind-the-news-2-9-23/id73801817?i=1000598944636) - about ChatGPT
 
 [Behind the News - July 2025 Appearance](https://podcasts.apple.com/za/podcast/behind-the-news-7-31-25/id73801817?i=1000720145251) - about the current state of the 'AI' industry
