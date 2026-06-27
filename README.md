@@ -25,9 +25,7 @@ My interests include cybernetics, cloud (focused on the Azure platform) and ente
 
 [Computational Impacts](https://monroelab.com/) - a blog about the political economy of the tech industry - grounded analysis without hype
 
-*Film Conversations*: A project in which, I chat with friends about film from the perspective of political economy, geopolitics, psychoanalytic theory, a literary perspective and more
-
-[Film Conversations]https://vdgasjournal.com/2025/08/08/film-conversations/)
+Film Conversations](https://vdgasjournal.com/2025/08/08/film-conversations/) - A project in which, I chat with friends about film from the perspective of political economy, geopolitics, psychoanalytic theory, a literary perspective and more
 
 
 
